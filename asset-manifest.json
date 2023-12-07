@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90b7621a.css",
+    "main.js": "/static/js/main.76c750b8.js",
+    "static/media/sertifikat.png": "/static/media/sertifikat.75768bcd0e4ba908da9f.png",
+    "static/media/bosch-washer3.webp": "/static/media/bosch-washer3.b512b4d9272391f21c85.webp",
+    "static/media/bosch-background.jpg": "/static/media/bosch-background.34d23ae4f6c2421694bc.jpg",
+    "static/media/tools.png": "/static/media/tools.0849be5b28a392112a99.png",
+    "static/media/bosch-washer2.png": "/static/media/bosch-washer2.380b19242bb2ca3affe7.png",
+    "static/media/bosch-dishwasher.png": "/static/media/bosch-dishwasher.98e1373cd57863441d2f.png",
+    "static/media/4.png": "/static/media/4.9611f89c9fcf1acb88d4.png",
+    "static/media/bosch-washer.webp": "/static/media/bosch-washer.c9f632a2c7e0cfcb1bce.webp",
+    "static/media/Lato-Light.ttf": "/static/media/Lato-Light.c7400fcad9e48ca9043f.ttf",
+    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
+    "static/media/3.png": "/static/media/3.246ad740a86f29f77518.png",
+    "static/media/Lato-Thin.ttf": "/static/media/Lato-Thin.5a60dde25d817751d590.ttf",
+    "static/media/Lato-Black.ttf": "/static/media/Lato-Black.57dee8aface5572f9101.ttf",
+    "static/media/2.png": "/static/media/2.4350da423cf628e8365a.png",
+    "static/media/bosch-fridge.png": "/static/media/bosch-fridge.c54fb8ea9f8e8dc48ea1.png",
+    "static/media/1.png": "/static/media/1.4ed00551cc0469b1883b.png",
+    "static/media/piggy-bank.png": "/static/media/piggy-bank.67f7483c78903f4528e4.png",
+    "static/media/bosch-plate.png": "/static/media/bosch-plate.febc58b4eddcca4e378d.png",
+    "static/media/free-icon-counterfeit.png": "/static/media/free-icon-counterfeit.b93ecc11f561879ad98b.png",
+    "static/media/light-bulb.png": "/static/media/light-bulb.fc90eb9e48fc3d73e479.png",
+    "static/media/cancel.png": "/static/media/cancel.1c2963ee3467352a1681.png",
+    "static/media/check.png": "/static/media/check.236cc6761d103c7e161f.png",
+    "static/media/1.jpg": "/static/media/1.d8efb48497aee72d9f5e.jpg",
+    "static/media/3.jpg": "/static/media/3.4ff9601225788d4b310a.jpg",
+    "static/media/4.jpg": "/static/media/4.a7d8e4dceb4da484bfd2.jpg",
+    "static/media/2.jpg": "/static/media/2.e424fab7abd3f6729edd.jpg",
+    "index.html": "/index.html",
+    "main.90b7621a.css.map": "/static/css/main.90b7621a.css.map",
+    "main.76c750b8.js.map": "/static/js/main.76c750b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90b7621a.css",
+    "static/js/main.76c750b8.js"
+  ]
+}
